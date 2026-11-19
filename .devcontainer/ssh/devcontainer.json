@@ -1,0 +1,5 @@
+{
+  "name": "jlab-ssh",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "forwardPorts": [8888]
+}
